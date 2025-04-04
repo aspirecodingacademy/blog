@@ -1,6 +1,6 @@
 ## TL;DR: Python
 
-Cutting to the chase—In our opinion, Python is your winner here. It’s beginner-friendly, widely used, and highly marketable. Think of programming languages like different cooking recipes, rather than universal skills like knife work. You can start with any language to grasp the fundamentals, and those fundamentals will help you learn different languages later. But if you’ve got to choose one recipe to start with, you’d probably start with a stir-fry instead of some obscure, unique delicacy, right?
+Cutting to the chase—In our opinion, Python is your winner here (usually). It’s beginner-friendly, widely used, and highly marketable. Think of programming languages like different cooking recipes, rather than universal skills like knife work. You can start with any language to grasp the fundamentals, and those fundamentals will help you learn different languages later. But if you’ve got to choose one recipe to start with, you’d probably start with a stir-fry instead of some obscure, unique delicacy, right?
 
 > **Note:** This is our recommendation for students looking to be in it for the long haul. For some niche cases, other languages may be a better fit. More on that below.
 

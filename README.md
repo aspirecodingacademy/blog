@@ -26,7 +26,7 @@
 
 ## About
 
-This repository is part of [Aspire Coding Academy][aca-url]'s `Dream Library`. The `Dream Library` is a collection of open source content meant for use by educators and students alike. The `Dream Library` is licensed under the MIT License.
+This repository is part of [Aspire Coding Academy][aspirecodingacademy-url]'s [WIP Initiative][wip-initiative-url].
 
 This repository contains our standalone blogs. Blogs can easily become part of the great noise that is the explosion of content in this generation. We position our blogs as succinct, digestible content to be referenced within structured instruction contexts.
 
@@ -51,7 +51,7 @@ Thank you for your interest in contributing to this project. Open source project
 
 ## Contact
 
-[contact@aspirecodingacademy.com](mailto:contact@aspirecodingacademy.com)
+[contact@aspirecodingacademy.com](mailto:hello@aspirecodingacademy.com)
 
 ## Acknowledgments
 
@@ -60,6 +60,11 @@ Thank you for your interest in contributing to this project. Open source project
 
 <!-- MARKDOWN LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- aca -->
+
+[aspirecodingacademy-url]: https://aspirecodingacademy.com
+[wip-initiative-url]: https://github.com/aspirecodingacademy/wip-initiative
 
 <!-- repo -->
 
@@ -91,4 +96,3 @@ Thank you for your interest in contributing to this project. Open source project
 <!-- acknowledgements -->
 
 [readme-template-url]: https://github.com/othneildrew/Best-README-Template
-[aca-url]: https://aspirecodingacademy.com

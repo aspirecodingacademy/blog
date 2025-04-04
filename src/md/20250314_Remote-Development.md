@@ -1,6 +1,4 @@
-We're excited to announce the first entry of our Open Source Library: **Remote Development Intro**.
-
-Each Monday over the next several weeks, we'll post actionable guides you can follow. Before we dive in, let’s cover the basics of what remote development is and why it’s worth learning.
+We're excited to announce the first entry of the [WIP Initiative](https://github.com/aspirecodingacademy/wip-initiative): **Remote Development Intro**. Before we dive in, let’s cover the basics of what remote development is and why it’s worth learning.
 
 ## What is Remote Development? 🌐
 
